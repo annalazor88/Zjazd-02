@@ -23,3 +23,5 @@ for cena in slownik_zakupow.values():
 
 for produkt, cena in slownik_zakupow.items(): #wszystko
     print(f' kupujesz {produkt} w ilości {cena}')
+
+    #abc
